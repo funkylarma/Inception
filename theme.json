@@ -59,8 +59,8 @@
 			"text": true
 		},
 		"layout": {
-			"contentSize": "980px",
-			"wideSize": "1080px"
+			"contentSize": "50rem",
+			"wideSize": "75rem"
 		},
 		"position": {
 			"fixed": true
@@ -292,7 +292,7 @@
 		"blocks": {
 			"core/buttons": {
 				"spacing": {
-					"blockGap": "10px"
+					"blockGap": "1rem"
 				}
 			},
 			"core/calendar": {
@@ -386,7 +386,7 @@
 			"core/image": {
 				"spacing": {
 					"margin": {
-						"bottom": "30px",
+						"bottom": "0",
 						"left": "0",
 						"right": "0",
 						"top": "0"
@@ -569,7 +569,7 @@
 				},
 				"typography": {
 					"fontSize": "var:preset|font-size|x-small",
-					"lineHeight": 1.399999999999999911182158029987476766109466552734375
+					"lineHeight": 1.3999999999999999
 				}
 			},
 			"cite": {
