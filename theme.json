@@ -332,6 +332,12 @@
 			"text": "var(--wp--preset--color--contrast)"
 		},
 		"elements": {
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--secondary)",
+					"text": "var(--wp--preset--color--background)"
+				}
+			},
 			"h1": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--plus-jakarta-sans)"
@@ -370,11 +376,11 @@
 			"link": {
 				":hover": {
 					"color": {
-						"text": "#36d02f"
+						"text": "var(--wp--preset--color--quaternary)"
 					}
 				},
 				"color": {
-					"text": "var(--wp--preset--color--primary)"
+					"text": "var(--wp--preset--color--contrast)"
 				},
 				"typography": {
 					"textDecoration": "none"
