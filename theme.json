@@ -376,11 +376,11 @@
 			"link": {
 				":hover": {
 					"color": {
-						"text": "var(--wp--preset--color--quaternary)"
+						"text": "var(--wp--preset--color--secondary)"
 					}
 				},
 				"color": {
-					"text": "var(--wp--preset--color--contrast)"
+					"text": "var(--wp--preset--color--quaternary)"
 				},
 				"typography": {
 					"textDecoration": "none"
